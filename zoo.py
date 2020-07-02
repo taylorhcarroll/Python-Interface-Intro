@@ -1,5 +1,5 @@
 from animals import Penguin, PaintedDog
-from habitats import Habitat, Aquarium
+from habitats import Aquarium
 
 Flipper = Penguin("Flipper")
 Flipper.swim()
